@@ -1,0 +1,14 @@
+Com as imagens disponíveis nesta pasta, crie uma composição em que o resultado final apresente os seguintes elementos:
+Recorte do hamburguer da imagem hamburguer e coloque-o na imagem fundo ou em outra de sua preferência.
+Adicione a lata de Pepsi ao combo.
+Insira Batatas Fritas (Pesquise no PNG Wing, Freepik ou Google)
+Insira textos contendo o NOME DO COMBO, PREÇO, TELEFONE, ETC. (Caso ache interessante, pode usar placas ou outros elementos que ajudem a chamar atenção Pesquise no PNG Wing, Freepik ou Google)
+Faça os ajustes de níveis, saturação, cores, curvas e todos os outros necessários para melhoria da ambientação dos elementos.
+Use o pincel para efeitos de luzes e sombras.
+Use as máscaras para sobrepor imagens e aplicar efeitos.
+-------------------------------
+Critérios de avaliação:
+-------------------------------
+Qualidade do recorte e das máscaras
+Ambientação de cores, saturação e luzes
+Criatividade
