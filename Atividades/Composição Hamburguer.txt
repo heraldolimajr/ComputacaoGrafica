@@ -6,6 +6,9 @@ Insira textos contendo o NOME DO COMBO, PREÇO, TELEFONE, ETC. (Caso ache intere
 Faça os ajustes de níveis, saturação, cores, curvas e todos os outros necessários para melhoria da ambientação dos elementos.
 Use o pincel para efeitos de luzes e sombras.
 Use as máscaras para sobrepor imagens e aplicar efeitos.
+Use desfoque gaussiano e/ou desfoque de movimento.
+Inspire-se nos exemplos.
+
 -------------------------------
 Critérios de avaliação:
 -------------------------------
